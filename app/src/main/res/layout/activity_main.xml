@@ -52,6 +52,8 @@
         android:id="@+id/btnDeleteDoneTodos"
         android:layout_width="141dp"
         android:layout_height="51dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
         android:background="@drawable/deathpng"
         android:fontFamily="@font/amaranth"
         android:text="SEÇİLİ OLANLARI SİL"
